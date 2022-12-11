@@ -12,3 +12,6 @@ app.use(express.urlencoded({ extended: false }));
 app.use(express.static('public'));
 
 
+//Untracked - git add
+//stage - git status
+//commited - git commit -m ''
